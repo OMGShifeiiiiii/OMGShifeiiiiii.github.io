@@ -9,7 +9,7 @@ title: "关于：About"
 
 ## 联系方式
 
-邮箱：lilanglx@163.com
+* 邮箱：lilanglx@163.com
 
 ## 关于本站：
 
